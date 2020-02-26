@@ -1,18 +1,17 @@
 # calendar_app
 
-A new Flutter application.
+A fully functional static calendar app with Holiday marker.
 
-## Getting Started
+# Screenshots 
 
-This project is a starting point for a Flutter application.
+First Screen
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1582745092](https://user-images.githubusercontent.com/50977126/75379789-f80f2880-58fb-11ea-9c47-ff4823a61e6d.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Holiday mention
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Flutter-Calendar" 
-"# Flutter-Calendar" 
+![Screenshot_1582745125](https://user-images.githubusercontent.com/50977126/75380066-67851800-58fc-11ea-95aa-46262c619b5a.png)
+
+Present day in purple and selected day in pink
+
+![Screenshot_1582745139](https://user-images.githubusercontent.com/50977126/75380100-72d84380-58fc-11ea-85de-a928d862f2df.png)
